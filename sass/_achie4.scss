@@ -1,0 +1,44 @@
+.achievments{
+    width: 100%;
+    height: 466px;
+    background-color: #F64C72;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.head_achi{
+    margin-top: 100px;
+    justify-content: center;
+    font-size: 40px;
+    color: aliceblue;
+}
+.para_achi{
+    display: flex;
+    font-size: 15px;
+    margin-top: 30px;
+    font-style: open sans; 
+    font-style: Bold;
+    text-transform: capitalize;
+    color: aliceblue;  
+    width:696px ;
+    line-height: 30px;
+    text-align: center;
+}
+.achievments__blocks{
+    display:flex;
+    justify-content: space-evenly;
+    grid-gap: 40px;
+}
+.achievements__block_1{
+    margin-top: 25px;
+    text-align: center;
+    font-size: 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: Bold;
+    color: #fff;
+
+}
+.para_achi_1{
+    color: #fff;
+    font-size: 23px;
+}

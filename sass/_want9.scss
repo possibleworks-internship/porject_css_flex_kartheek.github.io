@@ -1,0 +1,38 @@
+.work{
+    height: 396px;
+    width: 100%;
+    background-color:#F64C72;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.want_head{
+    height: 60px;
+    width:600px;
+    background-color:#F64C72 ;
+    color: #FFFFFF;
+    font-size: 40px;
+    font-weight: 500;
+    font-style: bold;
+    font-family: "open sans";
+    margin-left: 100px;
+}
+.want_para{
+    margin-top: 25px;
+    height:174px;
+    width: 514px;
+    font-weight: 400;
+    font-family:Mulish;
+    font-size: 18px;
+    font-style:semibold;
+    text-align: center;
+    color:#FFFFFF ;
+}
+.what_input{
+    width:186px;
+    height: 40px;
+    border:2px solid #FFFFFF;
+    background-color:#FFFFFF;
+    color: #d2c9c9;
+}

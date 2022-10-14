@@ -1,0 +1,55 @@
+.mission{
+    display: flex;
+    height:670px;
+    width:100%;
+    flex-direction: row;
+
+}
+.mission1{
+    height: 670px;
+    width:50%;
+    align-self: flex-start;
+    background-color: rgb(10, 19, 19);
+    background-image: url(/img/InStyle-December-Tim-Cook-Lead-1-2000-0dc103e223f4495992d8acb62dd12114.jpg);
+    background-size: cover;
+    object-fit:contain;
+
+}
+.mission2{
+    height: 670px;
+    width:50%;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color:#F64C72 ;
+}
+.head_miss{
+    align-self: center;
+font-family: Mulish;
+font-style:bold;
+font-size: 40px;
+text-align: center;
+color:#FFFFFF ;
+}
+.para_miss{
+    margin-top: 50px;
+    height: 174px;
+    width:514px;
+    font-weight: 500;
+    font-family:Mulish;
+    font-size: 18px;
+    font-style:semibold;
+    text-align: center;
+    color:#FFFFFF ;
+    align-self: center;
+}
+.button_miss{
+    margin-top:75px;
+    align-self: center;
+    width:186px;
+    height: 40px;
+    border:2px solid #FFFFFF;
+    background-color: #F64C72;
+    color: #FFFFFF;
+}

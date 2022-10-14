@@ -1,0 +1,27 @@
+.footer{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction:row;
+}
+.footer1{
+    height: 43%;
+    width: 40%;
+    background-color: #fff;
+    align-self: center;
+    text-align: center;
+    font-size: 30px;
+    color: #553D67;
+}
+.footer_logo{
+    align-self: flex-start;
+}
+.footer_logo_1{
+    svg{
+    height:120px ;
+    width: 100px;
+    grid-gap:50px;
+    }
+}
