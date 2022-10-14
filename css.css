@@ -34,7 +34,7 @@
   justify-content: center;
   height: 58rem;
   width: 100%;
-  background: linear-gradient(0deg, rgba(109, 83, 87, 0.5), rgba(109, 83, 87, 0.5)), url(/img/pexels-jeshootscom-442574.jpg);
+  background: linear-gradient(0deg, rgba(109, 83, 87, 0.5), rgba(109, 83, 87, 0.5)), url(img/pexels-jeshootscom-442574.jpg);
   opacity: 0.8;
   background-size: cover;
   position: relative;
@@ -334,7 +334,7 @@
   text-align: center;
   color: #553d67;
   margin: 70px;
-  margin-left: 950px;
+  margin-left: 850px;
   /*height:60px;
     width:423px;
     font-weight: 400;
@@ -502,15 +502,16 @@ p {
   align-self: center;
   text-align: center;
   font-size: 30px;
-  color: #553D67; }
+  color: #553D67;
+  margin-top: 20%; }
 
 .footer_logo {
   align-self: flex-start; }
 
 .footer_logo_1 svg {
-  height: 120px;
-  width: 100px;
-  grid-gap: 50px; }
+  height: 60px;
+  width: 60px;
+  margin-top: 90%; }
 
 *,
 *::before,
